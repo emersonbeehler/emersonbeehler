@@ -1,16 +1,15 @@
-## Hi there 👋
+## Introduction
 
-<!--
-**emersonbeehler/emersonbeehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at the University of Washington College of Engineering. 
+Interested in air and space.
 
-Here are some ideas to get you started:
+## Skills/Special Knowledge
+- Python
+    - Tkinter, NumPy, Matplotlib
+- CAD (Fusion 360)
+- Thermodynamics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+# [Turbojet Engine Simulator)])(https://github.com/emersonbeehler/turbojetsimulator/)
+Python app that uses user-defined parameters to calculate the performance of a turbojet engine using the ideal Brayton cycle. Outputs key performance metrics (e.g. thrust), and generates temperature and pressure graphs for each stage in the cycle.
+
