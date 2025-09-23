@@ -6,7 +6,7 @@ Interested in air and space.
 # Contact
 Email: emersonbeehler@gmail.com
 
-Linkedin: [emersonbeehler]([www.linkedin.com/in/emerson-beehler-142364355](https://www.linkedin.com/in/emersonbeehler/))
+Linkedin: [emersonbeehler](https://www.linkedin.com/in/emersonbeehler/)
 
 # Skills/Special Knowledge
 - Python
