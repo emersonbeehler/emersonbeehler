@@ -1,18 +1,19 @@
 ## Introduction
 
-Engineering student at the University of Washington College of Engineering. 
-Interested in air and space.
+Engineering student at the University of Washington College of Engineering. Interested in aerospace and mechanical engineering, especially in the context of planes and rockets. currently passionate about structures and propulsion, but always interested in learning more. Experience with engineering tools and strong academic background.
 
 ## Contact
 Email: emersonbeehler@gmail.com
 
 Linkedin: [emersonbeehler](https://www.linkedin.com/in/emersonbeehler/)
 
-## Skills/Special Knowledge
+## Technical Skills
 - Python
     - Tkinter, NumPy, Matplotlib
 - CAD (Fusion 360)
+    - 3D modelling, surface modeling.
 - Thermodynamics
+    - Core thermodynamics and fluid dynamic concepts
 
 ## Projects
 ### [Turbojet Engine Simulator](https://github.com/emersonbeehler/turbojetsimulator/)
